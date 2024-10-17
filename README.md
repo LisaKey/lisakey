@@ -1,8 +1,8 @@
 ## Hi, I’m Lisa 👋!
-I hold a Master's degree in Software Engineering, with a strong focus on Java :coffee: during my studies. Currently, I work as a Web Project Manager :clipboard:, but I am passionate about Python :snake: and SQL :card_file_box: for data analysis :bar_chart:, and I actively develop projects in these languages. My goal is to grow professionally in data-related roles, and I am also revisiting my Java expertise to showcase more of my work on GitHub.
+I hold a Master's degree in Software Engineering, with a strong focus on Java :coffee: during my studies. Currently, I work as a Web Project Manager :clipboard:, but I am passionate about Python :snake: and SQL :card_file_box: for data analysis :bar_chart:, and I actively develop projects in these languages. My goal is to grow professionally in data-related roles, and I am also revisiting my Java expertise.
 
 ## Bonjour, je suis Lisa 👋!
-Je suis diplômée d’un Master en ingénierie logicielle, où j’ai principalement utilisé Java :coffee: pendant mes études. Actuellement, je travaille en tant que web project manager :clipboard:, mais je suis passionnée par l’analyse de données :bar_chart: avec Python :snake: et SQL :card_file_box:, que je pratique activement dans mes projets. Mon objectif est d’évoluer vers des postes orientés data, et je remets également à jour mes compétences en Java pour enrichir mon portfolio sur GitHub.
+Je suis diplômée d’un Master en ingénierie logicielle, où j’ai principalement utilisé Java :coffee: pendant mes études. Actuellement, je travaille en tant que web project manager :clipboard:, mais je suis passionnée par l’analyse de données :bar_chart: avec Python :snake: et SQL :card_file_box:, que je pratique activement dans mes projets. Mon objectif est d’évoluer vers des postes orientés data, et je remets également à jour mes compétences en Java.
 
 <!--
 **LisaKey/lisakey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
